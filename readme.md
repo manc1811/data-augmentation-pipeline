@@ -29,7 +29,7 @@ A Streamlit-based UI that lets you:
 
 ```bash
 # 1. Clone & enter the repo
-git clone https://github.com/your-org/data-augmentation-toolkit.git
+git clone https://github.com/manc1811/data-augmentation-toolkit.git
 cd data-augmentation-toolkit
 
 # 2. Create env & install deps
