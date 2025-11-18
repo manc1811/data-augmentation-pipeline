@@ -1,4 +1,4 @@
-# 📚 Data-Augmentation Toolkit
+# 📚 Data-Augmentation-Pipeline
 
 A Streamlit-based UI that lets you:
 
@@ -29,8 +29,8 @@ A Streamlit-based UI that lets you:
 
 ```bash
 # 1. Clone & enter the repo
-git clone https://github.com/manc1811/data-augmentation-toolkit.git
-cd data-augmentation-toolkit
+git clone https://github.com/manc1811/data-augmentation-pipeline.git
+cd data-augmentation-pipeline
 
 # 2. Create env & install deps
 python -m venv .venv
