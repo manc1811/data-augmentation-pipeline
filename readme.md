@@ -35,7 +35,7 @@ cd data-augmentation-pipeline
 # 2. Create env & install deps
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r req.txt
 
 # 3. Run the Streamlit app
 streamlit run app.py
